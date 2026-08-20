@@ -6,7 +6,7 @@ The portfolio is designed with a clean and minimal interface, responsive layouts
 
 ## Live Portfolio
 
-https://niharika-portfolio-rbcs.onrender.com/
+https://niharika-portfolio-two.vercel.app/
 
 ## About
 
