@@ -30,7 +30,7 @@ function Hero() {
           </p>
 
           <a
-            href="https://drive.google.com/file/d/1YuFEanZga28OVeOeGAZ8gUS_7Rox6xt5/view?usp=sharing"
+            href="https://drive.google.com/file/d/1JN54NxvjPbh0NHu9yXBOqtW-CcHY30Jo/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block mt-8 bg-white text-black px-7 py-3 rounded-xl font-semibold hover:scale-105 transition duration-300"
